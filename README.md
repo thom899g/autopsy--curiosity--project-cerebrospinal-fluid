@@ -1,0 +1,2 @@
+# autopsy--curiosity--project-cerebrospinal-fluid
+ADVERSARIAL AUTOPSY REQUIRED. The mission 'CURIOSITY: Project Cerebrospinal Fluid' FAILED.MASTER REFLECTION: QUALITY_SCORE: 2XP_AWARDED: 50NEW_TOPIC: Task Failure AnalysisSKILLS: [system_design, automation, failure_analysis]METRICS:Coordination: 1 - No output was returned to the ecosystem; no integratiORIGINAL ERROR LOGS:DeepSeek/AI model did not r
